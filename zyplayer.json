@@ -99,18 +99,6 @@
     "id": 8
   },
   {
-    "key": "南国资源",
-    "name": "南国资源",
-    "api": "http://api.nguonphim.tv/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 9
-  },
-  {
     "key": "飞速资源",
     "name": "飞速资源",
     "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
@@ -120,32 +108,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 10
+    "id": 9
   },
-  {
-    "key": "ikun资源",
-    "name": "ikun资源",
-    "api": "https://ikunzyapi.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 11
-  },
-   {
-    "key": "天堂资源",
-    "name": "天堂资源",
-    "api": "http://vipmv.cc/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 12
-  }, 
   {
     "key": "映迷影院",
     "name": "映迷影院",
@@ -156,20 +120,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 13
-  }, 
-   {
-    "key": "1080资源",
-    "name": "1080资源",
-    "api": "https://1080p.tv/api.php/provide/vod",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 14
-  },   
+    "id": 10
+  },
   {
     "key": "易看资源",
     "name": "易看资源",
@@ -180,32 +132,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 15
+    "id": 11
   },
-  {
-    "key": "酷点资源",
-    "name": "酷点资源",
-    "api": "https://kudianzy.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 16
-  },  
-   {
-    "key": "忆梦资源",
-    "name": "忆梦资源",
-    "api": "http://anltv.cn/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 17
-  }, 
   {
     "key": "樱花资源",
     "name": "樱花资源",
@@ -216,19 +144,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 18
-  },
-  {
-    "key": "TOM资源",
-    "name": "TOM资源",
-    "api": "https://api.tomcaiji.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 19
+    "id": 12
   },
   {
     "key": "闪电资源",
@@ -240,20 +156,8 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 20
+    "id": 13
   },
-  {
-    "key": "FOX资源",
-    "name": "FOX资源",
-    "api": "https://api.foxzyapi.com/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 21
-  }, 
   {
     "key": "红牛资源",
     "name": "红牛资源",
@@ -264,11 +168,11 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 22
+    "id": 14
   },        
   {
-    "key": "77韩剧",
-    "name": "77韩剧",
+    "key": "七七韩剧",
+    "name": "七七韩剧",
     "api": "https://www.77hanju.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
@@ -276,7 +180,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 23
+    "id": 15
   }                      
 ]},
 "iptv":  {
