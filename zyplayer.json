@@ -283,8 +283,8 @@
   "default":1,
    "data":[
  {
-    "name": "Ray直播",
-    "url": "https://gitee.com/PizazzGY/TVBox/raw/main/live.txt",
+    "name": "电视直播",
+    "url": "https://gitee.com/PizazzGY/Live/raw/master/live.m3u",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
