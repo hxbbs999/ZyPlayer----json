@@ -188,7 +188,7 @@
    "data":[
  {
     "name": "电视直播",
-    "url": "https://gitee.com/PizazzGY/Live/raw/master/live.m3u",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/ZYPlayer/main/live.m3u",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
