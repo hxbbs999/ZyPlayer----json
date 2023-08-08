@@ -188,7 +188,7 @@
    "data":[
  {
     "name": "电视直播",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/ZYPlayer/main/live.m3u",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/ZYPlayer/main/live.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
