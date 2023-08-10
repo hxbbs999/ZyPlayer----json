@@ -199,7 +199,19 @@
     "id": 16
   }, 
   
-
+    {
+    "key": "1r资源",
+    "name": "1r资源",
+    "api": "	https://api.yrzyapi.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "https://player.yrplay1.com/m3u8/?url=",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 17
+  }, 
+  
   
   
   
@@ -219,7 +231,7 @@
     "status": true,
     "isActive": true,
     "type": 1,
-    "id": 17
+    "id": 18
   }                      
 ]},
 "iptv":  {
